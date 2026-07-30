@@ -23,14 +23,6 @@ I'm in my 8th semester of Systems Engineering at Escuela Colombiana de Ingenier�
 
 I like clean, maintainable systems: SOLID, hexagonal architecture, domain-driven design. And I like working with people who tell me what I'm getting wrong.
 
-## What I'm Working On
-
-- 🏢 Backend and custom module development at **Hamal Solutions** (Odoo, Python, data migrations)
-- 🎓 Owning the tutoring microservice of **ECIWise+**, an institutional platform built across several teams
-- 🤖 Building with AI — LLM integrations, agents with n8n, and daily work with **Claude Code** and **Codex**
-- 🌐 Freelance web development for local clients, end to end
-- 📚 Studying for **AWS Cloud Practitioner** and going deeper into AI engineering
-
 ## Tech Stack
 
 **Languages**
@@ -107,9 +99,6 @@ Freelance engagement for an engineering consultancy in Bogotá. Full delivery: i
 ---
 
 <div align="center">
-
-**Open to software development internships.** Spanish (native) · English (B2) · German (B1)
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=AlejandroHenao2572.AlejandroHenao2572&" alt="visitors" />
+ Spanish (native) · English (B2) · German (B1)
 
 </div>
