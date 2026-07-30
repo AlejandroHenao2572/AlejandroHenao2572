@@ -76,29 +76,27 @@ I like clean, maintainable systems: SOLID, hexagonal architecture, domain-driven
 
 Institutional academic support platform for Systems Engineering, built across several teams as a polyglot microservice system with database-per-service, REST + JWT and RabbitMQ for events. I own the Tutoring service end to end — recurring availability, a daily materialization job, and booking, cancellation and rescheduling with concurrency-safe capacity control. Hexagonal architecture, DDD and vertical slicing.
 
-`NestJS` `Prisma` `PostgreSQL` `JWT` `OpenAPI` — [📖 Docs](https://eciwise.github.io)
+`NestJS` `Prisma` `PostgreSQL` `JWT` `OpenAPI` 
 
 ### 🤖 DeliverAI — AI-Agent WhatsApp Ordering Platform
 
 Ordering platform for small businesses whose customers already order over WhatsApp. An AI agent interprets the order, confirms it and persists it through the backend. I built the REST API and the admin interface, designed the conversational flow, and set up the release pipeline.
 
-`Java` `Spring Boot` `PostgreSQL` `React` `n8n` `Terraform` — [🔗 Repo](#) <!-- TODO: agregar URL -->
+`Java` `Spring Boot` `PostgreSQL` `React` `n8n` `Terraform` 
 
 ### 💻 OmniCode — Real-Time Collaborative Code Editor
 
 Coding together in real time: simultaneous multi-user editing, multi-language execution, group video calls and collaborative diagramming. I built the real-time sessions microservice and handled deployment of the backend services.
 
-`Next.js` `NestJS` `MongoDB` `Redis` `WebSockets` `Docker` — [🔗 Repo](#) <!-- TODO: agregar URL -->
+`Next.js` `NestJS` `MongoDB` `Redis` `WebSockets` `Docker`
 
 ### 🏗️ Roca Ingenieros — Corporate Website
 
 Freelance engagement for an engineering consultancy in Bogotá. Full delivery: information architecture, UX/UI, responsive build and deployment with custom domain and analytics.
 
-`[STACK]` — [🔗 Live](#) <!-- TODO: agregar stack y URL -->
+`Astro` `Cloudflare` 
 
 ---
 
-<div align="center">
  Spanish (native) · English (B2) · German (B1)
 
-</div>
